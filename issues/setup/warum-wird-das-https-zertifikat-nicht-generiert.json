@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird das HTTPS-Zertifikat nicht generiert?",
+  "answer": "OpenSSL muss installiert sein. Schreibrechte im client/certs-Verzeichnis prüfen."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum hängt eine Instanz im Setup?",
+  "answer": "Health-Check prüfen. Admin-Passwort korrekt? Logs einsehen."
+}

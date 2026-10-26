@@ -1,0 +1,4 @@
+{
+  "question": "Warum werden Assets nicht geladen?",
+  "answer": "Pfade prüfen. Build-Artefakte prüfen. Vite-Config prüfen."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann ein teacher das Modul 'Cloud' nicht nutzen (Endpoint /timetable)?",
+  "answer": "Prüfe die Rolle des Benutzers (muss teacher sein) und die Tab-Berechtigungen in den Einstellungen. Endpoint /timetable muss erreichbar sein (Server-Logs prüfen). Bei 401/403: Anmeldedaten und Token prüfen. Bei 404: Route in App.tsx/AppNavigation.kt prüfen. Bei 500: Datenbank und Server-Logs prüfen."
+}

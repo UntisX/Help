@@ -1,0 +1,4 @@
+{
+  "question": "Warum erhalte ich 500 Internal Server Error?",
+  "answer": "Server-Logs prüfen. Datenbank-Verbindung prüfen. ENCRYPTION_SECRET in .env."
+}

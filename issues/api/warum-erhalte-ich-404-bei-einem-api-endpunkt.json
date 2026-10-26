@@ -1,0 +1,4 @@
+{
+  "question": "Warum erhalte ich 404 bei einem API-Endpunkt?",
+  "answer": "Route prüfen (App.tsx/AppNavigation.kt). Endpoint in UntisXApi.kt prüfen."
+}

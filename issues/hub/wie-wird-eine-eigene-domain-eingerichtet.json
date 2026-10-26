@@ -1,0 +1,4 @@
+{
+  "question": "Wie wird eine eigene Domain eingerichtet?",
+  "answer": "DNS-Einträge prüfen (verify_dns). Domain in .env setzen."
+}

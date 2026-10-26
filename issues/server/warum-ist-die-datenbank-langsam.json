@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist die Datenbank langsam?",
+  "answer": "Indizes prüfen (/migrations). Verbindungs-Pool prüfen. DATABASE_MAX_CONNECTIONS."
+}

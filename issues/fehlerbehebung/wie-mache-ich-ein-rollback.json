@@ -1,0 +1,4 @@
+{
+  "question": "Wie mache ich ein Rollback?",
+  "answer": "Vorherige Version aus Git auschecken. Datenbank-Backup wiederherstellen."
+}

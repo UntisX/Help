@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann gast Noten nicht widerrufen (500) in UntisX (Endpoint /homework)?",
+  "answer": "Rolle gast prüfen. Modul Noten erfordert ggf. höhere Rechte. Fehler 500: bei 401/403 Anmeldedaten und Tab-Rechte prüfen, bei 404 Route in App.tsx/AppNavigation.kt prüfen, bei 500 Server-Logs und Datenbank prüfen, bei Timeout Docker-Container und Netzwerk prüfen. Endpoint /homework und Datenbank-Verbindung validieren. Feature Noten muss aktiviert sein."
+}

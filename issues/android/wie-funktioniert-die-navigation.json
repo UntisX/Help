@@ -1,0 +1,4 @@
+{
+  "question": "Wie funktioniert die Navigation?",
+  "answer": "AppNavigation.kt, Screen sealed class, NavHost, Bottom Navigation."
+}

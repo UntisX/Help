@@ -1,0 +1,4 @@
+{
+  "question": "Wie ist der Hub aufgebaut?",
+  "answer": "PyQt6, QThread für Workers, Store für Persistenz, Config für Einstellungen."
+}

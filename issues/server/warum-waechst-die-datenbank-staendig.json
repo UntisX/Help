@@ -1,0 +1,4 @@
+{
+  "question": "Warum wächst die Datenbank ständig?",
+  "answer": "Session-Cleanup prüfen (session_cleanup_loop). Alte Daten archivieren."
+}

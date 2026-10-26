@@ -1,0 +1,4 @@
+{
+  "question": "Warum werden Einstellungen nicht gespeichert?",
+  "answer": "Netzwerkverbindung prüfen. Berechtigung prüfen. /preferences PUT."
+}

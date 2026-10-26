@@ -1,0 +1,4 @@
+{
+  "question": "Warum aktualisiert sich das Dashboard nicht automatisch?",
+  "answer": "Das Dashboard nutzt Server-Sent Events (SSE) über /events. Prüfe die SSE-Verbindung im Browser-Netzwerk-Tab. Firewall oder Proxy kann SSE blockieren."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Wie werden Formulare validiert?",
+  "answer": "React-State, Validierung in Komponenten, friendlyError für Fehlermeldungen."
+}

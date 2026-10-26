@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist die Ladezeit hoch?",
+  "answer": "Server-Performance, Netzwerk, Browser-Cache prüfen. Datenbank-Indizes prüfen."
+}

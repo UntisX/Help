@@ -1,0 +1,4 @@
+{
+  "question": "Wie werden Instanzen verwaltet?",
+  "answer": "InstanceManager, SetupWorker, StartWorker, StopWorker. Pro Lizenz ein Verzeichnis."
+}

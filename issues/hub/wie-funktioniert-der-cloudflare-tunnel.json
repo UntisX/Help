@@ -1,0 +1,4 @@
+{
+  "question": "Wie funktioniert der Cloudflare-Tunnel?",
+  "answer": "cloudflared tunnel --url https://localhost:port --no-tls-verify. Quick-Tunnel, keine Anmeldung."
+}

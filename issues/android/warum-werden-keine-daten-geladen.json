@@ -1,0 +1,4 @@
+{
+  "question": "Warum werden keine Daten geladen?",
+  "answer": "API-Endpunkt prüfen. Token gültig? Retrofit-Logs prüfen."
+}

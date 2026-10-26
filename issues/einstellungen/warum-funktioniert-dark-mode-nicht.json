@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktioniert Dark Mode nicht?",
+  "answer": "Browser-Cache leeren. Einstellung speichern. tokenManager.darkMode."
+}

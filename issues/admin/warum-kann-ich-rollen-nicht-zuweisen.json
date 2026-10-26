@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann ich Rollen nicht zuweisen?",
+  "answer": "Admin-Rolle erforderlich. /users PUT role."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum erhalte ich 401 Unauthorized?",
+  "answer": "Falsche Anmeldedaten oder abgelaufene Session. Passwort zurücksetzen über Admin-Panel."
+}

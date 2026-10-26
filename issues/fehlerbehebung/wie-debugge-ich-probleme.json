@@ -1,0 +1,4 @@
+{
+  "question": "Wie debugge ich Probleme?",
+  "answer": "Browser-Console, Server-Logs, Docker-Logs, Netzwerk-Tab."
+}

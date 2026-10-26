@@ -1,0 +1,4 @@
+{
+  "question": "Warum werden Ungelesen-Zähler nicht aktualisiert?",
+  "answer": "SSE-Verbindung prüfen (/events). Seite neu laden. /messages unread-count."
+}

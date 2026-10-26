@@ -1,0 +1,4 @@
+{
+  "question": "Warum gibt es einen Port-Konflikt?",
+  "answer": "Ports (Vite, API, PostgreSQL) müssen frei sein. Hub wählt automatisch freie Ports. Manuell in Einstellungen anpassen."
+}

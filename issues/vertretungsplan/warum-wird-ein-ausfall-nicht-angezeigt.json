@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird ein Ausfall nicht angezeigt?",
+  "answer": "Cancellation-Eintrag prüfen (/cancellations). timetable_entry_id und date korrekt?"
+}

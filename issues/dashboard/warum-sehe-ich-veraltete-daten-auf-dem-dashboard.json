@@ -1,0 +1,4 @@
+{
+  "question": "Warum sehe ich veraltete Daten auf dem Dashboard?",
+  "answer": "Hard-Reload mit Strg+F5 oder Browser-Cache leeren. Die Daten werden über /dashboard geladen."
+}

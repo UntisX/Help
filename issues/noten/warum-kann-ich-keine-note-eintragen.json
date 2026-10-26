@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann ich keine Note eintragen?",
+  "answer": "Lehrer/Admin-Rolle erforderlich. Fach, Schüler und Note ausfüllen. /grades POST."
+}

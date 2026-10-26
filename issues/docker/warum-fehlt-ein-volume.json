@@ -1,0 +1,4 @@
+{
+  "question": "Warum fehlt ein Volume?",
+  "answer": "docker-compose.yml prüfen. Volumes mit 'docker volume ls'."
+}

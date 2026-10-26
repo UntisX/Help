@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist Docker nicht gestartet?",
+  "answer": "Docker Desktop/Engine starten. 'docker info' prüfen."
+}

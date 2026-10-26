@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird der Tunnel nicht gestartet?",
+  "answer": "cloudflared installiert? Port frei? Firewall prüfen."
+}

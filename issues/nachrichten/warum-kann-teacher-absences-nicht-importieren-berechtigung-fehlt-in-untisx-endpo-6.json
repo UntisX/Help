@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann teacher Absences nicht importieren (Berechtigung fehlt) in UntisX (Endpoint /cloud)?",
+  "answer": "Rolle teacher prüfen. Modul Absences erfordert ggf. höhere Rechte. Fehler Berechtigung fehlt: bei 401/403 Anmeldedaten und Tab-Rechte prüfen, bei 404 Route in App.tsx/AppNavigation.kt prüfen, bei 500 Server-Logs und Datenbank prüfen, bei Timeout Docker-Container und Netzwerk prüfen. Endpoint /cloud und Datenbank-Verbindung validieren. Feature Absences muss aktiviert sein."
+}

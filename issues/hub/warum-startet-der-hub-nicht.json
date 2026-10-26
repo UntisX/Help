@@ -1,0 +1,4 @@
+{
+  "question": "Warum startet der Hub nicht?",
+  "answer": "Python und Abhängigkeiten prüfen. Logs einsehen. PyQt6 installiert?"
+}

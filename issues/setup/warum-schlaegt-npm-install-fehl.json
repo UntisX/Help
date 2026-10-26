@@ -1,0 +1,4 @@
+{
+  "question": "Warum schlägt npm install fehl?",
+  "answer": "Node.js >=18 erforderlich. Netzwerk/Proxy prüfen. node_modules löschen und 'npm install' erneut ausführen."
+}

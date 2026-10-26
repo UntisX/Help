@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird Dark Mode auf dem Dashboard nicht angewendet?",
+  "answer": "Dark Mode wird in den Einstellungen gespeichert (tokenManager.darkMode). Seite neu laden oder Browser-Cache leeren."
+}

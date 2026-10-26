@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird der Cloudflare-Tunnel nicht gestartet?",
+  "answer": "cloudflared muss installiert sein. Hub installiert es automatisch. Port muss frei sein. Firewall prüfen."
+}

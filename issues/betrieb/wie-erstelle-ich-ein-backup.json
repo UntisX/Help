@@ -1,0 +1,4 @@
+{
+  "question": "Wie erstelle ich ein Backup?",
+  "answer": "pg_dump für Datenbank. Instanz-Verzeichnis sichern."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist die Tunnel-URL nicht erreichbar?",
+  "answer": "Tunnel-Prozess prüfen. Vite allowedHosts. --no-tls-verify."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktioniert Echtzeit nicht?",
+  "answer": "SSE-Verbindung prüfen. /events. Firewall."
+}

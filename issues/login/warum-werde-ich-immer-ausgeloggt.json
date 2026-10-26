@@ -1,0 +1,4 @@
+{
+  "question": "Warum werde ich immer ausgeloggt?",
+  "answer": "Session-Timeout in der Datenbank. Token prüfen. Erneut anmelden."
+}

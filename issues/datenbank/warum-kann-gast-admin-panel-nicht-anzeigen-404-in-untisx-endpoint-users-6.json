@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann gast Admin-Panel nicht anzeigen (404) in UntisX (Endpoint /users)?",
+  "answer": "Rolle gast prüfen. Modul Admin-Panel erfordert ggf. höhere Rechte. Fehler 404: bei 401/403 Anmeldedaten und Tab-Rechte prüfen, bei 404 Route in App.tsx/AppNavigation.kt prüfen, bei 500 Server-Logs und Datenbank prüfen, bei Timeout Docker-Container und Netzwerk prüfen. Endpoint /users und Datenbank-Verbindung validieren. Feature Admin-Panel muss aktiviert sein."
+}

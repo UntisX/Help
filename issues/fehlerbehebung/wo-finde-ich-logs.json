@@ -1,0 +1,4 @@
+{
+  "question": "Wo finde ich Logs?",
+  "answer": "Server: docker compose logs. Hub: Instanz-Log. Android: logcat."
+}

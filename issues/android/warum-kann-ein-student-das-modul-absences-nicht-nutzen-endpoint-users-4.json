@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann ein student das Modul 'Absences' nicht nutzen (Endpoint /users)?",
+  "answer": "Prüfe die Rolle des Benutzers (muss student sein) und die Tab-Berechtigungen in den Einstellungen. Endpoint /users muss erreichbar sein (Server-Logs prüfen). Bei 401/403: Anmeldedaten und Token prüfen. Bei 404: Route in App.tsx/AppNavigation.kt prüfen. Bei 500: Datenbank und Server-Logs prüfen."
+}

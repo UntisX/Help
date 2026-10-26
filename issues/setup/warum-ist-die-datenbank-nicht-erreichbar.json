@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist die Datenbank nicht erreichbar?",
+  "answer": "PostgreSQL-Container-Status prüfen. POSTGRES_PORT und Zugangsdaten in server/.env prüfen. 'docker compose exec database pg_isready -U untisx'."
+}

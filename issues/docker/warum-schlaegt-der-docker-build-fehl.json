@@ -1,0 +1,4 @@
+{
+  "question": "Warum schlägt der Docker-Build fehl?",
+  "answer": "Dockerfile prüfen. Internetverbindung für Base-Image. Cache leeren: 'docker compose build --no-cache'."
+}

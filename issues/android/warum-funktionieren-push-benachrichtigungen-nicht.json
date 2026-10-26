@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktionieren Push-Benachrichtigungen nicht?",
+  "answer": "Firebase-Konfiguration prüfen. Berechtigungen prüfen."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann gast das Modul Klassen nicht filtern (404) in UntisX?",
+  "answer": "Prüfe die Rolle (gast) und die Berechtigungen. Modul Klassen erfordert ggf. admin/teacher. Fehler 404: bei 401/403 Anmeldedaten prüfen, bei 404 Route in App.tsx prüfen, bei 500 Server-Logs prüfen, bei Timeout Netzwerk und Docker-Container prüfen. Endpoint und Datenbank-Verbindung validieren."
+}

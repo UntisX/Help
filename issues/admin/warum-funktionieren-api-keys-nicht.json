@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktionieren API-Keys nicht?",
+  "answer": "API-Key erstellen (/api-keys). Berechtigung prüfen. Key im Header senden."
+}

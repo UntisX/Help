@@ -1,0 +1,4 @@
+{
+  "question": "Warum werden keine Stunden angezeigt?",
+  "answer": "Timetable-Einträge prüfen (/timetable). Gültigkeitszeitraum (valid_from/valid_until) und Wochentyp (odd/even) prüfen."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum hängt das Setup?",
+  "answer": "Health-Check wartet auf /auth/login. Bei falschem Passwort kann es hängen. Admin-Passwort prüfen oder Setup neu starten."
+}

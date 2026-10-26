@@ -1,0 +1,4 @@
+{
+  "question": "Wie fließen Daten durch UntisX?",
+  "answer": "Frontend → Vite-Proxy → Rust-Backend → PostgreSQL. Realtime über SSE (/events)."
+}

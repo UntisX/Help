@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird das Dashboard nicht geladen?",
+  "answer": "Prüfe, ob der UntisX-Server läuft (Docker-Container 'server-server-1'). Öffne http://localhost:<api_port>/health. Bei Fehler: 'docker compose up -d' im Server-Verzeichnis ausführen und Logs mit 'docker compose logs' prüfen."
+}

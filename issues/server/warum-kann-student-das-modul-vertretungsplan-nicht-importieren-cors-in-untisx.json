@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann student das Modul Vertretungsplan nicht importieren (CORS) in UntisX?",
+  "answer": "Prüfe die Rolle (student) und die Berechtigungen. Modul Vertretungsplan erfordert ggf. admin/teacher. Fehler CORS: bei 401/403 Anmeldedaten prüfen, bei 404 Route in App.tsx prüfen, bei 500 Server-Logs prüfen, bei Timeout Netzwerk und Docker-Container prüfen. Endpoint und Datenbank-Verbindung validieren."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum werden keine Nachrichten angezeigt?",
+  "answer": "Posteingang prüfen (/messages). Filter zurücksetzen. SSE-Verbindung prüfen."
+}

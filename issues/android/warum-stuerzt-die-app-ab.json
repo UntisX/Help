@@ -1,0 +1,4 @@
+{
+  "question": "Warum stürzt die App ab?",
+  "answer": "App-Version und Server-Version prüfen. Logs (logcat) einsehen. Cache leeren."
+}

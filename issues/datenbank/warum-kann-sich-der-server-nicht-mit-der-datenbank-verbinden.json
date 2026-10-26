@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann sich der Server nicht mit der Datenbank verbinden?",
+  "answer": "PostgreSQL-Container prüfen. DATABASE_URL in .env prüfen. Port prüfen."
+}

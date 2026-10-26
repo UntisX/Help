@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktioniert Bootstrap nicht?",
+  "answer": "Bootstrap-Token in .env setzen. /bootstrap aufrufen. Admin erstellen."
+}

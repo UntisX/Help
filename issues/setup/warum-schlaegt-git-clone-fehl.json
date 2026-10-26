@@ -1,0 +1,4 @@
+{
+  "question": "Warum schlägt git clone fehl?",
+  "answer": "GitHub-Token prüfen (Zugriff auf UntisX-Server, WebVersion, API, server-basis, server-default). Internetverbindung prüfen."
+}

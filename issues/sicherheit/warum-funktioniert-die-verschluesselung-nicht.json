@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktioniert die Verschlüsselung nicht?",
+  "answer": "ENCRYPTION_SECRET in .env prüfen. Muss in Server und Client identisch sein."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Wie ist die Android-App aufgebaut?",
+  "answer": "Jetpack Compose, Hilt DI, Retrofit API, Room DB, Navigation Compose."
+}

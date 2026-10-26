@@ -1,0 +1,4 @@
+{
+  "question": "Wie skaliere ich UntisX?",
+  "answer": "DATABASE_MAX_CONNECTIONS erhöhen. Mehr CPU/RAM. Load Balancer."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist der Token ungültig?",
+  "answer": "Token abgelaufen oder manipuliert. Neu anmelden. ENCRYPTION_SECRET in .env prüfen."
+}

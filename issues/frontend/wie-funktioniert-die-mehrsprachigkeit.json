@@ -1,0 +1,4 @@
+{
+  "question": "Wie funktioniert die Mehrsprachigkeit?",
+  "answer": "LanguageContext und public/lang/de.json, en.json. tx()-Helper für inline-Texte."
+}

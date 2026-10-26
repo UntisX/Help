@@ -1,0 +1,4 @@
+{
+  "question": "Warum gibt es CORS-Fehler bei der API?",
+  "answer": "CORS_ORIGIN in server/.env prüfen. Origin der Anfrage muss erlaubt sein."
+}

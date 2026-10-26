@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird keine Instanz erstellt?",
+  "answer": "GitHub-Token, Docker, Netzwerk prüfen. Setup-Logs einsehen."
+}

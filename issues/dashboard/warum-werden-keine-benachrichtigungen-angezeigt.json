@@ -1,0 +1,4 @@
+{
+  "question": "Warum werden keine Benachrichtigungen angezeigt?",
+  "answer": "Benachrichtigungen werden über /notifications geladen. Prüfe, ob der Benutzer eingeloggt ist und das Modul aktiv ist."
+}

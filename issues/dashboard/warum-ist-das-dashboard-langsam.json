@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist das Dashboard langsam?",
+  "answer": "Zu viele Widgets oder große Datenmengen. Prüfe die Server-Logs auf langsame Queries. Reduziere die Anzahl der angezeigten Widgets in den Einstellungen."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Wie wird State verwaltet?",
+  "answer": "React useState/useContext, AuthContext, ThemeContext. Kein Redux."
+}

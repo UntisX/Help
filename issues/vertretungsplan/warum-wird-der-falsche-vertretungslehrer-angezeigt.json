@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird der falsche Vertretungslehrer angezeigt?",
+  "answer": "sub_teacher_id in der Vertretung prüfen. Lehrer muss existieren (/teachers)."
+}

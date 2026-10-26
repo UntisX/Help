@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist der Server nicht erreichbar?",
+  "answer": "Docker-Container prüfen. Port und Firewall prüfen. /health."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist mein API-Key ungültig?",
+  "answer": "API-Key prüfen (/api-keys). Key im Header 'X-API-Key' senden."
+}

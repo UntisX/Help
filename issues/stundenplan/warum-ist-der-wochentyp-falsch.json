@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist der Wochentyp falsch?",
+  "answer": "Wochentyp (gerade/ungerade) basiert auf der ISO-Wochennummer. Systemdatum prüfen."
+}

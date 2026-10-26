@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann eltern Hausaufgaben nicht freigeben (401) in UntisX (Endpoint /messages)?",
+  "answer": "Rolle eltern prüfen. Modul Hausaufgaben erfordert ggf. höhere Rechte. Fehler 401: bei 401/403 Anmeldedaten und Tab-Rechte prüfen, bei 404 Route in App.tsx/AppNavigation.kt prüfen, bei 500 Server-Logs und Datenbank prüfen, bei Timeout Docker-Container und Netzwerk prüfen. Endpoint /messages und Datenbank-Verbindung validieren. Feature Hausaufgaben muss aktiviert sein."
+}

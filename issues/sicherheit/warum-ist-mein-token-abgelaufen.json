@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist mein Token abgelaufen?",
+  "answer": "Session-Timeout. Neu anmelden. expires_at in sessions prüfen."
+}

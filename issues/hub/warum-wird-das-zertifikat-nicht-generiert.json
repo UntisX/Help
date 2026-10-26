@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird das Zertifikat nicht generiert?",
+  "answer": "OpenSSL installiert? Schreibrechte in client/certs prüfen."
+}

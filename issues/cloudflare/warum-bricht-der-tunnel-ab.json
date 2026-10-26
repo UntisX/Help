@@ -1,0 +1,4 @@
+{
+  "question": "Warum bricht der Tunnel ab?",
+  "answer": "Netzwerkstabilität prüfen. cloudflared neu starten."
+}

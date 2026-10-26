@@ -1,0 +1,4 @@
+{
+  "question": "Warum wird der Admin-Account nicht erstellt?",
+  "answer": "Datenbank muss erreichbar sein. Bootstrap-Token in .env prüfen. SQL-Fehler in Logs prüfen."
+}

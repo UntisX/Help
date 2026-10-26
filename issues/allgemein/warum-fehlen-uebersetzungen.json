@@ -1,0 +1,4 @@
+{
+  "question": "Warum fehlen Übersetzungen?",
+  "answer": "Sprachdateien prüfen (public/lang/de.json, en.json). Fallback auf Standard."
+}

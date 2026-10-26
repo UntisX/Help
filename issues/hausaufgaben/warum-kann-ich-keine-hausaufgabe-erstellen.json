@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann ich keine Hausaufgabe erstellen?",
+  "answer": "Lehrer/Admin-Rolle erforderlich. Pflichtfelder (Titel, Fach, Fälligkeit) ausfüllen. /homework POST."
+}

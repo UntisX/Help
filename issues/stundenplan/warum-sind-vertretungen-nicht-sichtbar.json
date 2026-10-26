@@ -1,0 +1,4 @@
+{
+  "question": "Warum sind Vertretungen nicht sichtbar?",
+  "answer": "Vertretungsplan-Daten prüfen (/timetable/vertretungsplan?date=). Datum und Klasse filtern."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Warum fehlen Kacheln auf dem Dashboard?",
+  "answer": "Kacheln hängen von den Tab-Berechtigungen ab (Admin-Panel → Einstellungen → Tabs). Prüfe, ob der Benutzer die Rolle admin/teacher/student hat und die entsprechenden Tabs aktiviert sind."
+}

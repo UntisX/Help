@@ -1,0 +1,4 @@
+{
+  "question": "Warum schlägt das Setup fehl?",
+  "answer": "Docker, GitHub-Token, Netzwerk prüfen. Instanz-Log einsehen."
+}

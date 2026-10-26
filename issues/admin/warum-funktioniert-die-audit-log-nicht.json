@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktioniert die Audit-Log nicht?",
+  "answer": "Datenbank prüfen. Berechtigung prüfen. /audit-log."
+}

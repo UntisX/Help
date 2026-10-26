@@ -1,0 +1,4 @@
+{
+  "question": "Warum funktioniert der Chat nicht?",
+  "answer": "WebSocket/SSE prüfen. Berechtigung prüfen. /chats."
+}

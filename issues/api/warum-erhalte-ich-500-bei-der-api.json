@@ -1,0 +1,4 @@
+{
+  "question": "Warum erhalte ich 500 bei der API?",
+  "answer": "Server-Logs prüfen. Datenbank-Verbindung prüfen. ENCRYPTION_SECRET prüfen."
+}

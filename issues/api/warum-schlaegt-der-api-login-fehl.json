@@ -1,0 +1,4 @@
+{
+  "question": "Warum schlägt der API-Login fehl?",
+  "answer": "Prüfe /auth/login mit korrektem JSON (user_name, password). Token aus der Antwort speichern. Bei 401: Anmeldedaten prüfen."
+}

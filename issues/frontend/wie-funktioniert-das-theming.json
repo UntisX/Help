@@ -1,0 +1,4 @@
+{
+  "question": "Wie funktioniert das Theming?",
+  "answer": "ThemeContext, CSS-Variablen, Dark Mode in localStorage."
+}

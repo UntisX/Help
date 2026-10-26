@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist UntisX kein Monolith?",
+  "answer": "UntisX nutzt modulare Crates (api, server-basis, server-default) für Wiederverwendbarkeit und Testbarkeit."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Wie funktioniert die Autorisierung?",
+  "answer": "Rollen (admin/teacher/student) und Tab-Berechtigungen steuern Zugriff auf Module und Endpunkte."
+}

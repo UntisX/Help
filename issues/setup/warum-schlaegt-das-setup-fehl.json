@@ -1,0 +1,4 @@
+{
+  "question": "Warum schlägt das Setup fehl?",
+  "answer": "Prüfe Docker (docker info), GitHub-Token (Zugriff auf UntisX-Server und WebVersion) und Netzwerk. Details im Log der Instanz."
+}

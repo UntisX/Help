@@ -1,0 +1,4 @@
+{
+  "question": "Wie kommuniziert das Frontend mit dem Backend?",
+  "answer": "apiRequest in client/src/api/client.ts. Proxy in vite.config.ts (/api → localhost:3000)."
+}

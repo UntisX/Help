@@ -1,0 +1,4 @@
+{
+  "question": "Warum kann gast Lehrer nicht aktualisieren (Netzwerkfehler) in UntisX (Endpoint /subjects)?",
+  "answer": "Rolle gast prüfen. Modul Lehrer erfordert ggf. höhere Rechte. Fehler Netzwerkfehler: bei 401/403 Anmeldedaten und Tab-Rechte prüfen, bei 404 Route in App.tsx/AppNavigation.kt prüfen, bei 500 Server-Logs und Datenbank prüfen, bei Timeout Docker-Container und Netzwerk prüfen. Endpoint /subjects und Datenbank-Verbindung validieren. Feature Filter muss aktiviert sein."
+}

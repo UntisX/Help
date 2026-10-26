@@ -1,0 +1,4 @@
+{
+  "question": "Warum schlägt eine Migration fehl?",
+  "answer": "Migrations-Logs prüfen. SQL-Syntax prüfen. Datenbank-Version prüfen."
+}

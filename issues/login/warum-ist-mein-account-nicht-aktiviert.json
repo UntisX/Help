@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist mein Account nicht aktiviert?",
+  "answer": "Account muss durch Admin aktiviert werden (activated_at setzen). Bootstrap für ersten Admin."
+}

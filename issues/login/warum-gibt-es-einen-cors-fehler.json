@@ -1,0 +1,4 @@
+{
+  "question": "Warum gibt es einen CORS-Fehler?",
+  "answer": "CORS_ORIGIN in server/.env prüfen. Standard: localhost:5173, localhost:3000. Eigene Domains hinzufügen."
+}

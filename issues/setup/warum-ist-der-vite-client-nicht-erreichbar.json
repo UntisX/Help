@@ -1,0 +1,4 @@
+{
+  "question": "Warum ist der Vite-Client nicht erreichbar?",
+  "answer": "Prüfe den Vite-Port (Standard 5173, gepatcht in vite.config.ts). 'npm install' muss erfolgreich sein. Firewall-Regeln prüfen."
+}
