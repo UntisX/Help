@@ -1,0 +1,4 @@
+{
+  "question": "Why is the API token invalid?",
+  "answer": "Token expired or invalid. Log in again. Check the Authorization header (Bearer)."
+}

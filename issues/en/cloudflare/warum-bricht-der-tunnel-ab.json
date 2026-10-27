@@ -1,0 +1,4 @@
+{
+  "question": "Why does the tunnel disconnect?",
+  "answer": "Check network stability. Restart cloudflared."
+}

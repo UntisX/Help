@@ -1,0 +1,4 @@
+{
+  "question": "How does multilingual support work?",
+  "answer": "LanguageContext and public/lang/de.json, en.json. tx() helper for inline texts."
+}

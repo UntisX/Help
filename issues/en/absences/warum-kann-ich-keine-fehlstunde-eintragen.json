@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not enter an absence?",
+  "answer": "Check the permission (teacher/admin). Select a student. /absences POST."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Why does the Cloudflare tunnel not start?",
+  "answer": "Install cloudflared. Is the port free? Check the firewall."
+}

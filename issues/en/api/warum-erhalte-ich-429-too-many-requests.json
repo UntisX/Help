@@ -1,0 +1,4 @@
+{
+  "question": "Why do I get 429 Too Many Requests?",
+  "answer": "Rate limit reached. Wait and reduce the requests."
+}

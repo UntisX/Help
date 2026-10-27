@@ -1,0 +1,4 @@
+{
+  "question": "Why can teacher not view Absences (401) in UntisX (endpoint /cloud)?",
+  "answer": "Check role teacher. Module Absences may require higher permissions. Error 401: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /cloud and the database connection. Feature Absences must be enabled."
+}

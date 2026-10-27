@@ -1,0 +1,4 @@
+{
+  "question": "How do push notifications work?",
+  "answer": "Firebase Cloud Messaging. NotificationRepository."
+}

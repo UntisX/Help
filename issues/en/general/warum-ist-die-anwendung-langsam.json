@@ -1,0 +1,4 @@
+{
+  "question": "Why is the application slow?",
+  "answer": "Check the server performance, network, and browser cache. Check the database indexes."
+}

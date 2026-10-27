@@ -1,0 +1,4 @@
+{
+  "question": "Why are old sessions not deleted?",
+  "answer": "Check session_cleanup_loop (runs hourly). Manually: DELETE FROM sessions WHERE expires_at <= NOW()."
+}

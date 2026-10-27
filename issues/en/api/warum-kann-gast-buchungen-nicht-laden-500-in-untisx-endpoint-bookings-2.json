@@ -1,0 +1,4 @@
+{
+  "question": "Why can guest not load Bookings (500) in UntisX (endpoint /bookings)?",
+  "answer": "Check role guest. Module Bookings may require higher permissions. Error 500: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /bookings and the database connection. Feature Push must be enabled."
+}

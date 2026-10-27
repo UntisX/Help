@@ -1,0 +1,4 @@
+{
+  "question": "How does authorization work?",
+  "answer": "Roles (admin/teacher/student) and tab permissions control access to modules and endpoints."
+}

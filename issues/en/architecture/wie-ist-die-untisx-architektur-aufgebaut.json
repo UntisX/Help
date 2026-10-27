@@ -1,0 +1,4 @@
+{
+  "question": "How is the UntisX architecture structured?",
+  "answer": "UntisX consists of a backend (Rust/Axum), frontend (React/Vite), Android app (Kotlin), and Hub (Python/PyQt). Communication via REST and SSE."
+}

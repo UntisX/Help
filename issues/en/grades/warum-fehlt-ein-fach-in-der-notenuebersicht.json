@@ -1,0 +1,4 @@
+{
+  "question": "Why is a subject missing from the grade overview?",
+  "answer": "The subject must be assigned to the student. Check /subjects and /classes."
+}

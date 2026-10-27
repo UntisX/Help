@@ -1,0 +1,4 @@
+{
+  "question": "How are forms validated?",
+  "answer": "React state, validation in components, friendlyError for error messages."
+}

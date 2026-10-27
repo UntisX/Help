@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not assign roles?",
+  "answer": "Admin role required. /users PUT role."
+}

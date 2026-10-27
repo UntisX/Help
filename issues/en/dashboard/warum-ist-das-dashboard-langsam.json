@@ -1,0 +1,4 @@
+{
+  "question": "Why is the dashboard slow?",
+  "answer": "Too many widgets or large amounts of data. Check the server logs for slow queries. Reduce the number of displayed widgets in the settings."
+}

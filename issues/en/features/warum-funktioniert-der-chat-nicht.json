@@ -1,0 +1,4 @@
+{
+  "question": "Why does the chat not work?",
+  "answer": "Check WebSocket/SSE. Check the permission. /chats."
+}

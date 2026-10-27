@@ -1,0 +1,4 @@
+{
+  "question": "Why is the status wrong?",
+  "answer": "Check the status (excused/unexcused). /absences PUT."
+}

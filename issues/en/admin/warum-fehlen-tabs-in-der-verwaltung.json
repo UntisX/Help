@@ -1,0 +1,4 @@
+{
+  "question": "Why are tabs missing in the administration?",
+  "answer": "Check the tab permissions in the settings (DEFAULT_TABS). /settings-tabs."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "How does realtime work?",
+  "answer": "useRealtime hook, SSE via /events, RealtimeEvent."
+}

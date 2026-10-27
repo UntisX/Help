@@ -1,0 +1,4 @@
+{
+  "question": "Why can parents not view Homework (CORS) in UntisX (endpoint /messages)?",
+  "answer": "Check role parents. Module Homework may require higher permissions. Error CORS: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /messages and the database connection. Feature Homework must be enabled."
+}

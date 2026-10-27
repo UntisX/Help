@@ -1,0 +1,4 @@
+{
+  "question": "Why are favorites not displayed?",
+  "answer": "Favorites are saved in the user settings. Check /user/preferences. If there are problems: save the settings again."
+}

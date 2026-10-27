@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not create a homework assignment?",
+  "answer": "Teacher/admin role required. Fill in the mandatory fields (title, subject, due date). /homework POST."
+}

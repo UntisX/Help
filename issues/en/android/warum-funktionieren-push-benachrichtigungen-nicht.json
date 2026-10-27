@@ -1,0 +1,4 @@
+{
+  "question": "Why do push notifications not work?",
+  "answer": "Check the Firebase configuration. Check the permissions."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Why do I see outdated data on the dashboard?",
+  "answer": "Hard reload with Ctrl+F5 or clear the browser cache. The data is loaded via /dashboard."
+}

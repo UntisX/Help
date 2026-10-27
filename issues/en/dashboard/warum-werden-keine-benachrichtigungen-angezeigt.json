@@ -1,0 +1,4 @@
+{
+  "question": "Why are no notifications displayed?",
+  "answer": "Notifications are loaded via /notifications. Check whether the user is logged in and the module is active."
+}

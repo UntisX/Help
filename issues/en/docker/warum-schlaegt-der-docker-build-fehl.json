@@ -1,0 +1,4 @@
+{
+  "question": "Why does the Docker build fail?",
+  "answer": "Check the Dockerfile. Internet connection for the base image. Clear the cache: 'docker compose build --no-cache'."
+}

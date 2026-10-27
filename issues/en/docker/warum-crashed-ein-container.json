@@ -1,0 +1,4 @@
+{
+  "question": "Why does a container crash?",
+  "answer": "Logs: 'docker compose logs'. Check the resources (RAM/CPU)."
+}

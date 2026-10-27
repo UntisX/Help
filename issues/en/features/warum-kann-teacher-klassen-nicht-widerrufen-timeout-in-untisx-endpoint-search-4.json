@@ -1,0 +1,4 @@
+{
+  "question": "Why can teacher not revoke Classes (Timeout) in UntisX (endpoint /search)?",
+  "answer": "Check role teacher. Module Classes may require higher permissions. Error Timeout: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /search and the database connection. Feature Import must be enabled."
+}

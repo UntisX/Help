@@ -1,0 +1,4 @@
+{
+  "question": "Why can parents not search Settings (Connection lost) in UntisX (endpoint /notifications)?",
+  "answer": "Check role parents. Module Settings may require higher permissions. Error Connection lost: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /notifications and the database connection. Feature Settings must be enabled."
+}

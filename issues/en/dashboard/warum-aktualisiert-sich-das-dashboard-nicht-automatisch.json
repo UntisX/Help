@@ -1,0 +1,4 @@
+{
+  "question": "Why does the dashboard not update automatically?",
+  "answer": "The dashboard uses Server-Sent Events (SSE) via /events. Check the SSE connection in the browser network tab. A firewall or proxy may block SSE."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Why are translations missing?",
+  "answer": "Check the language files (public/lang/de.json, en.json). Fallback to the default."
+}

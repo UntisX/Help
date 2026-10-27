@@ -1,0 +1,4 @@
+{
+  "question": "Why can student not filter Cloud (500) in UntisX (endpoint /settings)?",
+  "answer": "Check role student. Module Cloud may require higher permissions. Error 500: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /settings and the database connection. Feature Cloud must be enabled."
+}

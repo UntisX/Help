@@ -1,0 +1,4 @@
+{
+  "question": "Why does synchronization not work?",
+  "answer": "Check /sync. Check the network connection. Resolve conflicts."
+}

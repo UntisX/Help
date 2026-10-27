@@ -1,0 +1,4 @@
+{
+  "question": "Why does offline mode not work?",
+  "answer": "Check the cache. Check the database (Room)."
+}

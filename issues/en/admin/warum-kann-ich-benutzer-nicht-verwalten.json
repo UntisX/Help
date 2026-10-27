@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not manage users?",
+  "answer": "Admin role required. /students, /teachers, /admins."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Why can guest not update the module Rooms (Timeout) in UntisX?",
+  "answer": "Check the role (guest) and the permissions. Module Rooms may require admin/teacher. Error Timeout: on 401/403 check credentials, on 404 check the route in App.tsx, on 500 check server logs, on timeout check the network and Docker container. Validate the endpoint and database connection."
+}

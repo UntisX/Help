@@ -1,0 +1,4 @@
+{
+  "question": "Why can teacher not save the module Settings (404) in UntisX?",
+  "answer": "Check the role (teacher) and the permissions. Module Settings may require admin/teacher. Error 404: on 401/403 check credentials, on 404 check the route in App.tsx, on 500 check server logs, on timeout check the network and Docker container. Validate the endpoint and database connection."
+}

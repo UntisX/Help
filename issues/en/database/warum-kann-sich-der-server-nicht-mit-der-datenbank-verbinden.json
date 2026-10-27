@@ -1,0 +1,4 @@
+{
+  "question": "Why can the server not connect to the database?",
+  "answer": "Check the PostgreSQL container. Check DATABASE_URL in .env. Check the port."
+}

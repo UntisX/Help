@@ -1,0 +1,4 @@
+{
+  "question": "Why does the CSV export not work?",
+  "answer": "Disable the browser popup blocker. Is data available? /export."
+}

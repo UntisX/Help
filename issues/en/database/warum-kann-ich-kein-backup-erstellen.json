@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not create a backup?",
+  "answer": "Use pg_dump. Check the permissions. Check the storage space."
+}

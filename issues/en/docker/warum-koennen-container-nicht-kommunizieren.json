@@ -1,0 +1,4 @@
+{
+  "question": "Why can containers not communicate?",
+  "answer": "Check the Docker network. 'docker network ls'. Check the Compose network."
+}

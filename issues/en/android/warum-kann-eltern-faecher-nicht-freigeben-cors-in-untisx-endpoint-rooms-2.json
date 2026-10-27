@@ -1,0 +1,4 @@
+{
+  "question": "Why can parents not release Subjects (CORS) in UntisX (endpoint /rooms)?",
+  "answer": "Check role parents. Module Subjects may require higher permissions. Error CORS: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /rooms and the database connection. Feature Sorting must be enabled."
+}

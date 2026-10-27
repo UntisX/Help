@@ -1,0 +1,4 @@
+{
+  "question": "Why are no statistics displayed?",
+  "answer": "Statistics require data in Absences/Grades. Check whether entries exist and the user is authorized."
+}

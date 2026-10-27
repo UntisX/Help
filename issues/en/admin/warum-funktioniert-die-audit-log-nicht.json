@@ -1,0 +1,4 @@
+{
+  "question": "Why does the audit log not work?",
+  "answer": "Check the database. Check the permission. /audit-log."
+}

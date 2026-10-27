@@ -1,0 +1,4 @@
+{
+  "question": "Why are tiles missing on the dashboard?",
+  "answer": "Tiles depend on the tab permissions (Admin panel → Settings → Tabs). Check whether the user has the admin/teacher/student role and the corresponding tabs are enabled."
+}

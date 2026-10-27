@@ -1,0 +1,4 @@
+{
+  "question": "Does the app work offline?",
+  "answer": "Room database for caching. TokenManager for the session."
+}

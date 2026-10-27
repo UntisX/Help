@@ -1,0 +1,4 @@
+{
+  "question": "Why can parents not update Class register (Connection lost) in UntisX (endpoint /class-book)?",
+  "answer": "Check role parents. Module Class register may require higher permissions. Error Connection lost: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /class-book and the database connection. Feature Offline must be enabled."
+}

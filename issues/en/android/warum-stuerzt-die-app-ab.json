@@ -1,0 +1,4 @@
+{
+  "question": "Why does the app crash?",
+  "answer": "Check the app version and server version. Review the logs (logcat). Clear the cache."
+}

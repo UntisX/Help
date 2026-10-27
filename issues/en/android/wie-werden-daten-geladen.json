@@ -1,0 +1,4 @@
+{
+  "question": "How is data loaded?",
+  "answer": "HiltViewModel, StateFlow, coroutines, repository pattern."
+}

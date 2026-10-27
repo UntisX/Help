@@ -1,0 +1,4 @@
+{
+  "question": "Why are queries slow?",
+  "answer": "Check the indexes (036_add_performance_indexes.sql). Use EXPLAIN ANALYZE."
+}

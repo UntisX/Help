@@ -1,0 +1,4 @@
+{
+  "question": "How does authentication work?",
+  "answer": "Login via /auth/login, token in the session table, middleware checks the token on every request."
+}
