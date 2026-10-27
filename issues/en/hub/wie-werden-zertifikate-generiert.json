@@ -1,0 +1,4 @@
+{
+  "question": "How are certificates generated?",
+  "answer": "OpenSSL, self-signed, persisted in client/certs/. SAN: localhost, *.trycloudflare.com."
+}

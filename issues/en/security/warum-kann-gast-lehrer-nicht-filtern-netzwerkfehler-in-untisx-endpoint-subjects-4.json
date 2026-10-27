@@ -1,0 +1,4 @@
+{
+  "question": "Why can guest not filter Teachers (Network error) in UntisX (endpoint /subjects)?",
+  "answer": "Check role guest. Module Teachers may require higher permissions. Error Network error: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /subjects and the database connection. Feature Filter must be enabled."
+}

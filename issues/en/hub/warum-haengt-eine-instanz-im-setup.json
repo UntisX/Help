@@ -1,0 +1,4 @@
+{
+  "question": "Why does an instance hang during setup?",
+  "answer": "Check the health check. Is the admin password correct? Review the logs."
+}

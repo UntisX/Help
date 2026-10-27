@@ -1,0 +1,4 @@
+{
+  "question": "Why is there a port conflict?",
+  "answer": "Ports (Vite, API, PostgreSQL) must be free. The Hub automatically selects free ports. Adjust them manually in the settings."
+}

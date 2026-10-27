@@ -1,0 +1,4 @@
+{
+  "question": "Why does the web app not load?",
+  "answer": "Check the Vite server. Check the port and firewall. npm run dev."
+}

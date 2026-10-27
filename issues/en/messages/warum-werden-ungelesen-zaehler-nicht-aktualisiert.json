@@ -1,0 +1,4 @@
+{
+  "question": "Why are unread counters not updated?",
+  "answer": "Check the SSE connection (/events). Reload the page. /messages unread-count."
+}

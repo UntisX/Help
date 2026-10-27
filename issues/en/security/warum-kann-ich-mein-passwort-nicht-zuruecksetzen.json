@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not reset my password?",
+  "answer": "An admin must reset the password. /users PUT password_hash."
+}

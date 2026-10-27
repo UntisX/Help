@@ -1,0 +1,4 @@
+{
+  "question": "Why does a migration fail?",
+  "answer": "Check the database logs. Check the SQL syntax. /migrations."
+}

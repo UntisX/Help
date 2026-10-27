@@ -1,0 +1,4 @@
+{
+  "question": "Why is the database slow?",
+  "answer": "Check the indexes (/migrations). Check the connection pool. DATABASE_MAX_CONNECTIONS."
+}

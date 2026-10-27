@@ -1,0 +1,4 @@
+{
+  "question": "Why is a cancellation not displayed?",
+  "answer": "Check the cancellation entry (/cancellations). Are timetable_entry_id and date correct?"
+}

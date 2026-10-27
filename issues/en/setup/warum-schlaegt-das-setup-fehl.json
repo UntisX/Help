@@ -1,0 +1,4 @@
+{
+  "question": "Why does the setup fail?",
+  "answer": "Check Docker (docker info), the GitHub token (access to UntisX-Server and WebVersion), and the network. Details in the instance log."
+}

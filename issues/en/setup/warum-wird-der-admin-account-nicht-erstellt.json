@@ -1,0 +1,4 @@
+{
+  "question": "Why is the admin account not created?",
+  "answer": "The database must be reachable. Check the bootstrap token in .env. Check the logs for SQL errors."
+}

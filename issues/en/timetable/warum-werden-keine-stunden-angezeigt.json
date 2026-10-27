@@ -1,0 +1,4 @@
+{
+  "question": "Why are no lessons displayed?",
+  "answer": "Check the timetable entries (/timetable). Check the validity period (valid_from/valid_until) and week type (odd/even)."
+}

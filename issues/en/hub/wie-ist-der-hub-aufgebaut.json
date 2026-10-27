@@ -1,0 +1,4 @@
+{
+  "question": "How is the Hub structured?",
+  "answer": "PyQt6, QThread for workers, store for persistence, config for settings."
+}

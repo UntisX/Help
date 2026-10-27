@@ -1,0 +1,4 @@
+{
+  "question": "Why am I always logged out?",
+  "answer": "Session timeout in the database. Check the token. Log in again."
+}

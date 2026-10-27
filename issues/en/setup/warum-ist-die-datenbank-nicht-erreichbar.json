@@ -1,0 +1,4 @@
+{
+  "question": "Why is the database unreachable?",
+  "answer": "Check the PostgreSQL container status. Check POSTGRES_PORT and the credentials in server/.env. 'docker compose exec database pg_isready -U untisx'."
+}

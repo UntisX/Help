@@ -1,0 +1,4 @@
+{
+  "question": "How do I monitor UntisX?",
+  "answer": "Health endpoint /health. Logs: docker compose logs. Hub: System Monitor."
+}

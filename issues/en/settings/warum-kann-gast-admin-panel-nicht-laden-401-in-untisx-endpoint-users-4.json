@@ -1,0 +1,4 @@
+{
+  "question": "Why can guest not load Admin panel (401) in UntisX (endpoint /users)?",
+  "answer": "Check role guest. Module Admin panel may require higher permissions. Error 401: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /users and the database connection. Feature Admin panel must be enabled."
+}

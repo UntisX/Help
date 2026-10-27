@@ -1,0 +1,4 @@
+{
+  "question": "Why is no instance created?",
+  "answer": "Check the GitHub token, Docker, and network. Review the setup logs."
+}

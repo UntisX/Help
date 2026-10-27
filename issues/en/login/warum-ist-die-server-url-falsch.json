@@ -1,0 +1,4 @@
+{
+  "question": "Why is the server URL wrong?",
+  "answer": "Check the server URL in the settings (must start with http:// or https://). Android: ServerUrlScreen."
+}

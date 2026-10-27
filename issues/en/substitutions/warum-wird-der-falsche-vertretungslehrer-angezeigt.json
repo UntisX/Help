@@ -1,0 +1,4 @@
+{
+  "question": "Why is the wrong substitute teacher displayed?",
+  "answer": "Check sub_teacher_id in the substitution. The teacher must exist (/teachers)."
+}

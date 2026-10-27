@@ -1,0 +1,4 @@
+{
+  "question": "Why can student not delete the module Subjects (401) in UntisX?",
+  "answer": "Check the role (student) and the permissions. Module Subjects may require admin/teacher. Error 401: on 401/403 check credentials, on 404 check the route in App.tsx, on 500 check server logs, on timeout check the network and Docker container. Validate the endpoint and database connection."
+}

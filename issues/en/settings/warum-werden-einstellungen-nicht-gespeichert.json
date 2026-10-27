@@ -1,0 +1,4 @@
+{
+  "question": "Why are settings not saved?",
+  "answer": "Check the network connection. Check the permission. /preferences PUT."
+}

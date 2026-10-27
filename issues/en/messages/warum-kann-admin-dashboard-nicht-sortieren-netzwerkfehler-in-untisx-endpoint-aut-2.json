@@ -1,0 +1,4 @@
+{
+  "question": "Why can admin not sort Dashboard (Network error) in UntisX (endpoint /auth/login)?",
+  "answer": "Check role admin. Module Dashboard may require higher permissions. Error Network error: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /auth/login and the database connection. Feature Dashboard must be enabled."
+}

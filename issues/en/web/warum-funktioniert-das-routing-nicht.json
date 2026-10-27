@@ -1,0 +1,4 @@
+{
+  "question": "Why does routing not work?",
+  "answer": "Clear the browser cache. Check the route. Check React Router."
+}

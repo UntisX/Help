@@ -1,0 +1,4 @@
+{
+  "question": "Why can an admin not use the module 'Messages' (endpoint /homework)?",
+  "answer": "Check the user's role (must be admin) and the tab permissions in the settings. Endpoint /homework must be reachable (check server logs). On 401/403: check credentials and token. On 404: check the route in App.tsx/AppNavigation.kt. On 500: check the database and server logs."
+}

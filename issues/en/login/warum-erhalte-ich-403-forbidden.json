@@ -1,0 +1,4 @@
+{
+  "question": "Why do I get 403 Forbidden?",
+  "answer": "No permission for the resource. Check the user's role (admin/teacher/student)."
+}

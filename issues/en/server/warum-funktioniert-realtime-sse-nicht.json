@@ -1,0 +1,4 @@
+{
+  "question": "Why does realtime (SSE) not work?",
+  "answer": "Check the SSE endpoint /events. A proxy/firewall may block SSE."
+}

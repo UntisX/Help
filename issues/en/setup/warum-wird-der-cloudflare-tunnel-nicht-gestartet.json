@@ -1,0 +1,4 @@
+{
+  "question": "Why is the Cloudflare tunnel not started?",
+  "answer": "cloudflared must be installed. The Hub installs it automatically. The port must be free. Check the firewall."
+}

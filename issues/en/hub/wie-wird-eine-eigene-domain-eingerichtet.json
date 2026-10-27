@@ -1,0 +1,4 @@
+{
+  "question": "How is a custom domain set up?",
+  "answer": "Check the DNS records (verify_dns). Set the domain in .env."
+}

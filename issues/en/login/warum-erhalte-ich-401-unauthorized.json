@@ -1,0 +1,4 @@
+{
+  "question": "Why do I get 401 Unauthorized?",
+  "answer": "Wrong credentials or an expired session. Reset the password via the admin panel."
+}

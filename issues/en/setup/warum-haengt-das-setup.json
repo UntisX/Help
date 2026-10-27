@@ -1,0 +1,4 @@
+{
+  "question": "Why does the setup hang?",
+  "answer": "The health check waits for /auth/login. It may hang if the password is wrong. Check the admin password or restart the setup."
+}

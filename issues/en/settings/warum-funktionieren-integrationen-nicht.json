@@ -1,0 +1,4 @@
+{
+  "question": "Why do integrations not work?",
+  "answer": "Activate the integration (/settings-integrations). Check the API key."
+}

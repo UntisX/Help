@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not enter a lesson?",
+  "answer": "Admin permission required. Fill in all mandatory fields (subject, day, lesson). Check for conflicts."
+}

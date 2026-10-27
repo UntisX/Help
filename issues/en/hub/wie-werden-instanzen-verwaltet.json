@@ -1,0 +1,4 @@
+{
+  "question": "How are instances managed?",
+  "answer": "InstanceManager, SetupWorker, StartWorker, StopWorker. One directory per license."
+}

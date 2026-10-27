@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not create a chat?",
+  "answer": "Check the permission. Select a recipient. /chats POST."
+}

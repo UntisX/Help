@@ -1,0 +1,4 @@
+{
+  "question": "Why does encryption not work?",
+  "answer": "Check ENCRYPTION_SECRET in .env. It must be identical in the server and client."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Why is the Vite client unreachable?",
+  "answer": "Check the Vite port (default 5173, patched in vite.config.ts). 'npm install' must succeed. Check the firewall rules."
+}

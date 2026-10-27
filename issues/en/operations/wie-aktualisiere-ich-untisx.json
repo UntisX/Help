@@ -1,0 +1,4 @@
+{
+  "question": "How do I update UntisX?",
+  "answer": "Hub: update button. Manually: git pull in server/ and web/."
+}

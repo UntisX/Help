@@ -1,0 +1,4 @@
+{
+  "question": "Why is the week type wrong?",
+  "answer": "The week type (even/odd) is based on the ISO week number. Check the system date."
+}

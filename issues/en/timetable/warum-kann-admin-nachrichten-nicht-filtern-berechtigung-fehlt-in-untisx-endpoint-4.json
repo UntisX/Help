@@ -1,0 +1,4 @@
+{
+  "question": "Why can admin not filter Messages (Permission missing) in UntisX (endpoint /absences)?",
+  "answer": "Check role admin. Module Messages may require higher permissions. Error Permission missing: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /absences and the database connection. Feature Messages must be enabled."
+}

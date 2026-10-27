@@ -1,0 +1,4 @@
+{
+  "question": "Why can I not log in?",
+  "answer": "Check the username/password. Is the account activated? Is the server reachable? Test /auth/login."
+}

@@ -1,0 +1,4 @@
+{
+  "question": "Why am I missing a permission?",
+  "answer": "Check the role (admin/teacher/student). Check the tab permissions in the settings."
+}

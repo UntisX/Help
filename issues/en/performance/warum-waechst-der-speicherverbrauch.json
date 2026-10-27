@@ -1,0 +1,4 @@
+{
+  "question": "Why does memory usage grow?",
+  "answer": "Close the browser tab and reopen it. Check the server memory."
+}

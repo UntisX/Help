@@ -1,0 +1,4 @@
+{
+  "question": "Why is CPU usage high?",
+  "answer": "Check the server logs. Optimize the database queries."
+}

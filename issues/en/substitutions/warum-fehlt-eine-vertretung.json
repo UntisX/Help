@@ -1,0 +1,4 @@
+{
+  "question": "Why is a substitution missing?",
+  "answer": "Check the substitution in the database (/substitutions). Are the date and timetable_entry_id correct?"
+}

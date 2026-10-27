@@ -1,0 +1,4 @@
+{
+  "question": "Why does Hot Module Replacement not work?",
+  "answer": "Check the Vite server. Check the WebSocket connection."
+}

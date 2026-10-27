@@ -1,0 +1,4 @@
+{
+  "question": "Why does CORS not work?",
+  "answer": "Check CORS_ORIGIN in .env. Default: localhost:5173, localhost:3000."
+}

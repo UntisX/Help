@@ -1,0 +1,4 @@
+{
+  "question": "Why does npm install fail?",
+  "answer": "Node.js >=18 required. Check the network/proxy. Delete node_modules and run 'npm install' again."
+}

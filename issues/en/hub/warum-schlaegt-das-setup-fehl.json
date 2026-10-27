@@ -1,0 +1,4 @@
+{
+  "question": "Why does the setup fail?",
+  "answer": "Check Docker, the GitHub token, and the network. Review the instance log."
+}

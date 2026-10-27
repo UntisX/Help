@@ -1,0 +1,4 @@
+{
+  "question": "Why can teacher not import Announcements (401) in UntisX (endpoint /students)?",
+  "answer": "Check role teacher. Module Announcements may require higher permissions. Error 401: on 401/403 check credentials and tab permissions, on 404 check the route in App.tsx/AppNavigation.kt, on 500 check server logs and database, on timeout check the Docker container and network. Validate endpoint /students and the database connection. Feature Multilingual support must be enabled."
+}

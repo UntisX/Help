@@ -1,0 +1,4 @@
+{
+  "question": "Why can guest not update the module Grades (CORS) in UntisX?",
+  "answer": "Check the role (guest) and the permissions. Module Grades may require admin/teacher. Error CORS: on 401/403 check credentials, on 404 check the route in App.tsx, on 500 check server logs, on timeout check the network and Docker container. Validate the endpoint and database connection."
+}

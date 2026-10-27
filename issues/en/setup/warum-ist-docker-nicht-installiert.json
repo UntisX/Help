@@ -1,0 +1,4 @@
+{
+  "question": "Why is Docker not installed?",
+  "answer": "Install Docker Desktop (Windows/macOS) or Docker Engine (Linux). The Hub can install Docker automatically."
+}

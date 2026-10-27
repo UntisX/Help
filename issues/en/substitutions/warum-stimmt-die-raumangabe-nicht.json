@@ -1,0 +1,4 @@
+{
+  "question": "Why is the room information wrong?",
+  "answer": "Check the room assignment in the substitution. The room must exist (/rooms)."
+}

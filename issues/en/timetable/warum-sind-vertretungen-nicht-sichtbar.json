@@ -1,0 +1,4 @@
+{
+  "question": "Why are substitutions not visible?",
+  "answer": "Check the substitution plan data (/timetable/vertretungsplan?date=). Filter by date and class."
+}

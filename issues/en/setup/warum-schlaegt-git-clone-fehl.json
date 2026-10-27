@@ -1,0 +1,4 @@
+{
+  "question": "Why does git clone fail?",
+  "answer": "Check the GitHub token (access to UntisX-Server, WebVersion, API, server-basis, server-default). Check the internet connection."
+}

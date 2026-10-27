@@ -1,0 +1,4 @@
+{
+  "question": "Why does the backend not start?",
+  "answer": "Check the Docker container: 'docker compose ps'. Logs: 'docker compose logs server'. Check for port conflicts (API_PORT in .env)."
+}
